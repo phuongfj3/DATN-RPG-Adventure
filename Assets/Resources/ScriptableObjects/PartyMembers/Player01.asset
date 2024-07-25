@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b59daec8cb88f264f9b7c01060552f09, type: 3}
+  m_Name: Player01
+  m_EditorClassIdentifier: 
+  moniker: Player
+  actorPrefab: {fileID: 5312986757477717046, guid: e1a7be0d7697934478320f0b6a76fe22, type: 3}
+  menuPortrait: {fileID: -433764764, guid: a71c2e8a1fb32dd4da57c101061275d7, type: 3}
+  battlePortrait: {fileID: 5609990034110019464, guid: 143f1b51e9ff4684c8dadceee06b1c83, type: 3}
+  job: 0

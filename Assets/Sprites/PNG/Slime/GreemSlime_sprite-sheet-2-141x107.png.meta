@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: 4da3bc87e5912da46a4303a32935197b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 429
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bce1c7ab6486c46a4e1cd9dbb52bc9
+      internalID: 468976426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 429
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd2706a77a921b4984269611fb2ab86
+      internalID: -927090362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 429
+        width: 74
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09fb8ca6a01cd5489febd2bb04ad746
+      internalID: -1251365417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 429
+        width: 74
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8891af21f493e534ca080166d7bb0c4e
+      internalID: 1458390422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_4
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 429
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073c94b4da47a6540920730e5194e89e
+      internalID: 200020416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 322
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e26ffee3cfb924a8b48c466adbaa4f
+      internalID: 213619454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 322
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30fe3d11f9dad944aeb853954e1ad58
+      internalID: -1371805255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 322
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6872e677691c2a44ba56a05ff77c07b0
+      internalID: 1672861256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_8
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 322
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726d5019212dd33409b72ef9a7b40102
+      internalID: 563520379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_9
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 322
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48cf9cdd4571184598c291ad4f19b83
+      internalID: 2011448650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 215
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d10310b37c9bb4fb639b41c9bfa3c8
+      internalID: 202510129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 226
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96746f8a4054914fbbf7ffa3d3c8973
+      internalID: 1537800020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 248
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f4ccf7cc867c944a4569547661700d
+      internalID: -1908540209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 249
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba2fec1d8eabdb458e61e61076e3954
+      internalID: -2043894787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_14
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 249
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0191ce1d8ab6a6d4f83f7d31a542a8d2
+      internalID: 69786993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 143
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cab17f3ac52e744b45b46887566793
+      internalID: 622515832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 109
+        width: 120
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b0d5306c6b6bb498bae785d58272cd
+      internalID: 1094988292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_17
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 109
+        width: 120
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4666b926eb2f84144a3b1c2f4f22d612
+      internalID: -1883039558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_18
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 109
+        width: 97
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a882eef83495cbc4ba630082c2d9c76e
+      internalID: -1872327166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_19
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 109
+        width: 97
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27478d81da9ae3745bfba14f25deb34e
+      internalID: 1110679012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d767dce4a39084c439b8df62ab885a72
+      internalID: -1157431746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 6
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea6ffb46cca2ef44a67d60aa1cf140d
+      internalID: 136404012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ab905b9aac090438af3b843ead4b4f
+      internalID: 1859467500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreemSlime_sprite-sheet-2-141x107_23
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0828cce8b70412541922a637ab2ad78b
+      internalID: -1251849620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GreemSlime_sprite-sheet-2-141x107_0: 468976426
+      GreemSlime_sprite-sheet-2-141x107_1: -927090362
+      GreemSlime_sprite-sheet-2-141x107_10: 202510129
+      GreemSlime_sprite-sheet-2-141x107_11: 1537800020
+      GreemSlime_sprite-sheet-2-141x107_12: -1908540209
+      GreemSlime_sprite-sheet-2-141x107_13: -2043894787
+      GreemSlime_sprite-sheet-2-141x107_14: 69786993
+      GreemSlime_sprite-sheet-2-141x107_15: 622515832
+      GreemSlime_sprite-sheet-2-141x107_16: 1094988292
+      GreemSlime_sprite-sheet-2-141x107_17: -1883039558
+      GreemSlime_sprite-sheet-2-141x107_18: -1872327166
+      GreemSlime_sprite-sheet-2-141x107_19: 1110679012
+      GreemSlime_sprite-sheet-2-141x107_2: -1251365417
+      GreemSlime_sprite-sheet-2-141x107_20: -1157431746
+      GreemSlime_sprite-sheet-2-141x107_21: 136404012
+      GreemSlime_sprite-sheet-2-141x107_22: 1859467500
+      GreemSlime_sprite-sheet-2-141x107_23: -1251849620
+      GreemSlime_sprite-sheet-2-141x107_3: 1458390422
+      GreemSlime_sprite-sheet-2-141x107_4: 200020416
+      GreemSlime_sprite-sheet-2-141x107_5: 213619454
+      GreemSlime_sprite-sheet-2-141x107_6: -1371805255
+      GreemSlime_sprite-sheet-2-141x107_7: 1672861256
+      GreemSlime_sprite-sheet-2-141x107_8: 563520379
+      GreemSlime_sprite-sheet-2-141x107_9: 2011448650
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

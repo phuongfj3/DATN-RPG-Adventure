@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 209f55e9a911d6545b83312d379201ab, type: 3}
+  m_Name: Snake
+  m_EditorClassIdentifier: 
+  actorPrefab: {fileID: 2131672603484537607, guid: a50b06d61b60aff439d566a327b769ed, type: 3}
+  stats:
+    level: 1
+    hp: 5
+    maxhp: 5
+    str: 5
+    arm: 5
+    spd: 2
+  battlePortrait: {fileID: 8437255729202120707, guid: f684f22075fdd1c4d91a91de802135a5, type: 3}

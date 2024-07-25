@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5903e4c97ac48bd47bfeb7282f773257, type: 3}
+  m_Name: Forest
+  m_EditorClassIdentifier: 
+  encounterChancePerStep: 30
+  enemyPacks:
+  - {fileID: 11400000, guid: 4d9e084361ab6734e842ab0563856d0d, type: 2}
+  - {fileID: 11400000, guid: facf3ce7ea02e624cac826a0b1f5ccea, type: 2}
+  - {fileID: 11400000, guid: 3b88678e4c47b304c99b9e803008586c, type: 2}
+  packEncounterRate: 0000000064000000
